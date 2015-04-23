@@ -24,7 +24,6 @@
     "/build-config.js",
     "/gulpfile.js",
     "/package.json",
-    "/README.md",
     "/karma.conf.js"
   ],
   "main": [
